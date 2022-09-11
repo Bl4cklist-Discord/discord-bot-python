@@ -1,1 +1,1 @@
-# Discord-Bot-Examples
+🤖 - Discord-Bots in Python (Code-Beispiele)
