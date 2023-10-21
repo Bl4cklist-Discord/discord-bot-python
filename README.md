@@ -1,7 +1,7 @@
 ![Placeholder](https://i.imgur.com/sfwHCN8.png)
 
 <h2><strong>🤖 × DISCORD-BOT BEISPIELE - FÜR PYTHON!</strong></h4>
-› Hier findest du viele nützliche Beispiele, wie du bestimmte Features in <strong>deinen eigenen Discord-Bot</strong> implementieren kannst - Wir versuchen außerdem mit kleinen Kommentaren innerhalb des Codes dir das ganze etwas zu erklären.
+› Hier findest du viele nützliche Beispiele, wie du bestimmte Features in <strong>deinen eigenen Discord-Bot</strong> implementieren kannst - Wir versuchen außerdem mit kleinen Kommentaren innerhalb des Codes dir das ganze etwas zu erklären. <br /><br />
 
 › Wir arbeiten in diesem Projekt mit <strong>discord.py & Python</strong>. Beides wird regelmäßig aktualisiert sowie unsere Codes um wichtige Performance & Sicherheitsupdates sofort integrieren zu können.
 <br /><br /><hr>
