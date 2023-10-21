@@ -1,4 +1,4 @@
-![Placeholder]([https://bl4cklist.de/assets/img/support-bot.gif](https://i.imgur.com/sfwHCN8.png))
+![Placeholder](https://i.imgur.com/sfwHCN8.png)
 
 <h2><strong>🤖 × DISCORD-BOT BEISPIELE - FÜR PYTHON!</strong></h4>
 › Hier findest du viele nützliche Beispiele, wie du bestimmte Features in <strong>deinen eigenen Discord-Bot</strong> implementieren kannst - Wir versuchen außerdem mit kleinen Kommentaren innerhalb des Codes dir das ganze etwas zu erklären.
